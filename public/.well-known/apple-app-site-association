@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+                "appID": "HU6TR7JFP9.au.com.betm.dev",
+                "paths": [
+                    "NOT /_/*",
+                    "/*"
+                ]
+            },
+            {
+                "appID": "533H75UL22.cn.com.fenrir-inc.betm",
+                "paths": [
+                    "NOT /_/*",
+                    "/*"
+                ]
+            }
+        ]
+    }
+}
